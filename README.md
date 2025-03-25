@@ -1,6 +1,5 @@
 # Cheshire Terminal Documentation
 
-![Cheshire Terminal Logo](https://placeholder-image.com/cheshire-logo.jpg)
 
 ## The Autonomous AI-Powered DeFi Social Swarm and Hedge Fund
 
